@@ -25,4 +25,7 @@ Es el mismo circuito descripto en el README, pero soldado en vez de insertado en
 - Contactos metálicos (reciclados de un portapilas viejo) en cada extremo del tubo, haciendo presión contra el positivo y el negativo de la fila de pilas.
 - Cada contacto reforzado con una maderita pegada atrás.
 - Un bajalengua o palito de helado a lo largo del tubo, por fuera, ayuda a que no se doble ni se aplaste con golpes.
+
+## Arduino
+El arduino nano no entra en el caño de ppn por lo que se armó una estructura de carton que funciona como contenedor y como mango para el baculo.
  
