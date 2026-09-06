@@ -1,6 +1,6 @@
 # Juego de luces RGB multimodo
  
-Sistema de control para un LED RGB con varios modos de luz, manejados con un solo botón. Pensado originalmente para un báculo, pero sirve para cualquier armado que use un LED RGB (decoración, disfraz, adorno, etc.).
+Sistema de control para un LED RGB con varios modos de luz, manejados con un solo botón. Pensado originalmente para un báculo, pero sirve para cualquier armado que use un LED RGB.
  
 ## Componentes
  
