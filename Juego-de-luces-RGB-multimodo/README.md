@@ -1,5 +1,7 @@
 # Juego de luces RGB multimodo
- 
+
+
+
 Sistema de control para un LED RGB con varios modos de luz, manejados con un solo botón. Pensado originalmente para un báculo.
  
 ## Componentes
