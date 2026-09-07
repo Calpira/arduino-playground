@@ -14,12 +14,12 @@ Este proyecto está montado dentro de un caño de **PPN bicapa**, sin protoboard
  
 1. **Punta — LED + resistencias**, en el extremo superior del caño.
 2. **Mitad superior del caño**: hueca, solo pasan los cables que bajan desde el LED hasta el Arduino.
-3. **Estructura de cartón**: contiene el Arduino Nano, ubicada entre las dos mitades del caño. El botón sale hacia afuera del cartón, a la altura de la mano.
+3. **Estructura central**: contiene el Arduino Nano, ubicada entre las dos mitades del caño. El botón sobresale, a la altura de la mano.
 4. **Mitad inferior del caño**: contiene las pilas (6x AA), desmontable de la parte de arriba para poder acceder a las pilas en el recambio.
  
 ## Conexiones 
  
-Es el mismo circuito descripto en el README, pero soldado en vez de insertado en una protoboard:
+Es el mismo circuito descripto en el README:
 - Cada unión (resistencia-LED, resistencia-cable, botón-cable) se suelda directamente y se cubre con cinta aisladora.
 
 ## Alimentación
@@ -30,11 +30,8 @@ Es el mismo circuito descripto en el README, pero soldado en vez de insertado en
  
 - Tubo hecho enrollando una lámina de plástico (de botella) alrededor de las 6 pilas ya puestas en fila, para que quede ajustado a su diámetro.
 - Contactos metálicos (reciclados de un portapilas viejo) en cada extremo del tubo, haciendo presión contra el positivo y el negativo de la fila de pilas.
-- Cada contacto reforzado con una maderita pegada atrás.
-- Un palito de helado a lo largo del tubo, por fuera, ayuda a que no se deforme.
 
-## Arduino
-El arduino nano no entra en el caño de ppn por lo que se armó una estructura de carton que funciona como contenedor y como mango para el baculo. Esta estructura une las dos mitades del caño (una hacia la punta con el LED, la otra hacia las pilas). El botón sale por fuera del cartón.
+
 
 
  
