@@ -1,13 +1,13 @@
 # Juego de luces RGB multimodo
  
-Sistema de control para un LED RGB con varios modos de luz, manejados con un solo botón. Pensado originalmente para un báculo, pero sirve para cualquier armado que use un LED RGB.
+Sistema de control para un LED RGB con varios modos de luz, manejados con un solo botón. Pensado originalmente para un báculo.
  
 ## Componentes
  
 - Arduino Nano
 - LED RGB de cátodo común
 - 3 resistencias de 220Ω (una por color: R, G, B)
-- Pulsador (botón)
+- Pulsador
 - Alimentación: 6 pilas AA (9V) al pin VIN
 ## Conexiones
  
@@ -16,7 +16,7 @@ Sistema de control para un LED RGB con varios modos de luz, manejados con un sol
 | LED - Rojo (con resistencia) | 9 |
 | LED - Verde (con resistencia) | 10 |
 | LED - Azul (con resistencia) | 11 |
-| LED - Común (patita larga, sin resistencia) | GND |
+| LED - Común (sin resistencia) | GND |
 | Botón - una pata | 2 |
 | Botón - pata opuesta | GND |
 | Pilas (+) | VIN |
