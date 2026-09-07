@@ -12,7 +12,7 @@ Sistema de control para un LED RGB con varios modos de luz, manejados con un sol
 - LED RGB de cátodo común
 - 3 resistencias de 220Ω (una por color: R, G, B)
 - Pulsador
-- Alimentación: 6 pilas AA (9V) al pin VIN
+- Alimentación: 4 pilas AA (9V) al pin VIN
 ## Conexiones
  
 | Componente | Pin Arduino Nano |
