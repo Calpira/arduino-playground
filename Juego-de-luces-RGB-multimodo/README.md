@@ -1,5 +1,7 @@
 # Juego de luces RGB multimodo
 
+![Arduino Nano](https://img.shields.io/badge/Arduino-Nano-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
 Sistema de control para un LED RGB con varios modos de luz, manejados con un solo botón. Pensado originalmente para un báculo.
