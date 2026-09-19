@@ -6,6 +6,8 @@
 
 Sistema de control para un LED RGB con varios modos de luz, manejados con un solo botón. Pensado originalmente para un báculo.
 
+>[Armado](doc-armado.md)
+
 <img src="./muestra.gif" alt="Demo" width="500" />
 
 
