@@ -1,7 +1,6 @@
 # Armado físico
  
-Este proyecto está montado dentro de un caño de **PPN bicapa**, sin protoboard: todas las conexiones van soldadas directamente.
- 
+Este proyecto está montado dentro de un caño de **PPN bicapa**.
 ## Estructura del báculo (de arriba abajo)
  
 1. **Punta — LED + resistencias**
