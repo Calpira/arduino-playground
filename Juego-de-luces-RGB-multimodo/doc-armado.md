@@ -27,7 +27,7 @@ Es el mismo circuito descripto en el README:
 
 ### Portapilas casero
  
-- Tubo hecho enrollando una lámina de plástico (de botella) alrededor de las 6 pilas ya puestas en fila, para que quede ajustado a su diámetro.
+- Tubo hecho enrollando una lámina de plástico (de botella) alrededor de las 4 pilas ya puestas en fila, para que quede ajustado a su diámetro.
 - Contactos metálicos (reciclados de un portapilas viejo) en cada extremo del tubo, haciendo presión contra el positivo y el negativo de la fila de pilas.
 
 
